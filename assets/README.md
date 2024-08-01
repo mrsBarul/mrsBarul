@@ -37,8 +37,9 @@
 <img align="left"  width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsBarul&theme=material_palenight"></div>
 
  <br /><br /><br /><br /><br /><br /><br />
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsBarul&theme=material_palenight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight)
+
   <br /><br /><br /><br /><br /><br /><br />
 
 
