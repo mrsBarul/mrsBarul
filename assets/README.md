@@ -31,10 +31,10 @@ src="https://img.shields.io/github/followers/mrsBarul?logo=github&style=for-the-
 
 ### My GitHub Stats
 
-<div width="92%" direction="row" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsBarul&theme=material_palenight"></div>
+<div width="100%" direction="row" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsBarul&theme=material_palenight"></div>
 
-<div width="100%" align="center"><img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight">
-<img align="left"   width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsBarul&theme=material_palenight"></div> <br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><img align="left" width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight">
+<img align="left"   width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsBarul&theme=material_palenight"></div> <br /><br /><br /><br /><br /><br /><br />
 
 
 ### Top Repositories
