@@ -1,4 +1,4 @@
-<div width="100%" direction="row" align="center"><img src="https://avatars.mds.yandex.net/i?id=024ecec064d296a3143835a2e3f4f36d_l-4767164-images-thumbs&n=13"></div>
+<div width="100%" direction="row" align="center"><img src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/logo.PNG"></div>
 <hr>
 
 Web developer
