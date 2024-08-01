@@ -1,7 +1,6 @@
 <div width="100%" direction="row" align="center"><img src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/logo.PNG"></div>
-<hr>
 
-Web developer
+## Привет, я Кристина Барулева - full stack web-developer
 -------------
 
 Я начала заниматься веб-разработкой, вдохновленная идеей создания инновационных и полезных продуктов. 
@@ -32,10 +31,10 @@ src="https://img.shields.io/github/followers/mrsBarul?logo=github&style=for-the-
 
 ### My GitHub Stats
 
-<div width="100%" direction="row" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsBarul&theme=material_palenight"></div>
-<hr>
-<div width="100%" align="center"><img align="left" width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight">
-<img align="right"   width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsBarul&theme=material_palenight"></div> <br /><br /><br /><br /><br /><br /><br />
+<div width="92%" direction="row" align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsBarul&theme=material_palenight"></div>
+
+<div width="100%" align="center"><img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight">
+<img align="left"   width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsBarul&theme=material_palenight"></div> <br /><br /><br /><br /><br /><br /><br />
 
 
 ### Top Repositories
