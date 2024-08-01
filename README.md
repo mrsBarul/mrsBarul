@@ -10,10 +10,7 @@
 
 * 🌍  Москва
 * 🖥️  Мой сайт-портфолио [BarCode](http://telling-clumsy-brand.glitch.me/)
-* ✉️  Почта [kristina.baruleva@bk.ru](mailto:kristina.baruleva@bk.ru)
-* 　<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telegram" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906q-1.168.486-4.666 2.01-.567.225-.595.442c-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294q.39.01.868-.32 3.269-2.206 3.374-2.23c.05-.012.12-.026.166.016s.042.12.037.141c-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8 8 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629q.14.092.27.187c.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.4 1.4 0 0 0-.013-.315.34.34 0 0 0-.114-.217.53.53 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09"/>
-</svg> [Telegram](https://t.me/mrs_barul)
+* ✉️  Контакты: [Почта](mailto:kristina.baruleva@bk.ru), [Telegram](https://t.me/mrs_barul)　
 * 🚀  Работаю над проектом [Mortgage consultant](http://mortage-cz.netlify.app/)
 
 <br />
@@ -50,7 +47,7 @@
 
 ### Top Repositories
 
-<div width="100%" align="left"><a href="https://github.com/mrsBarul/epsaver-frontend " align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=epsaver-frontend &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mrsBarul/epsaver-backend " align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=epsaver-backend &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
+<div width="100%" align="left"><a href="https://github.com/mrsBarul/epsaver-frontend " align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/EpSaver.png" align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/EpSaver.png" /></a></div><br /><br /><br />
 
 
-<div width="100%" align="left"><a href="https://github.com/mrsBarul/DOOR-TO-DOOR " align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=DOOR-TO-DOOR &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mrsBarul/Stop-Boring " align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=Stop-Boring &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="left"><a href="https://github.com/mrsBarul/DOOR-TO-DOOR " align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/DoorToDoor.png" /></a><a href="https://github.com/mrsBarul/Stop-Boring " align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/Boring.png" /></a></div>
