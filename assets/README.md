@@ -29,12 +29,16 @@ src="https://img.shields.io/github/followers/mrsBarul?logo=github&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/mrsBarul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mrs.barul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
+ <br /><br /><br /><br /><br /><br /><br />
+
 ### My GitHub Stats
 
 <div width="100%" direction="row" align="left"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrsBarul&theme=material_palenight"></div>
 
 <div width="100%" align="center"><img align="left" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrsBarul&theme=material_palenight">
-<img align="left"   width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsBarul&theme=material_palenight"></div> <br /><br /><br /><br /><br /><br /><br />
+<img align="left"   width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrsBarul&theme=material_palenight"></div>
+
+ <br /><br /><br /><br /><br /><br /><br />
 
 
 ### Top Repositories
