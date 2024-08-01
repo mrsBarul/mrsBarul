@@ -32,10 +32,10 @@
 </p><br />
 
 
-### Socials
+### Социальные сети
 
 <p align="left"> <a href="https://www.github.com/mrsBarul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<span style="margin-right: 10px;"></span>
+<span width="32" height="32" >   </span>
  <a href="http://www.instagram.com/mrs.barul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
  <br />
@@ -46,17 +46,9 @@
 
  <br />
 
-### Top Repositories
+### Интересные репозитории
+
+ <div width="100%" align="center"><a href="https://github.com/mrsBarul/epsaver-frontend" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=epsaver-frontend&title_color=C792EA&text_color=A7ACCB&icon_color=9FDBFC&bg_color=292D3E&hide_border=true&locale=en" /></a><a href="https://github.com/mrsBarul/epsaver-backend" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=epsaver-backend&title_color=C792EA&text_color=A7ACCB&icon_color=9FDBFC&bg_color=292D3E&hide_border=true&locale=en" /></a></div>
 
 
-  <div width="100%" align="left">
-  <a href="https://github.com/mrsBarul/epsaver-frontend " align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/EpSaver.png" align="left"></a>
-  <a href="https://github.com/mrsBarul/epsaver-frontend " align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/EpSaver.png" /></a>
-  </div>
-
-  <div></div>
-
-  <div width="100%" align="left">
-    <a href="https://github.com/mrsBarul/DOOR-TO-DOOR " align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/DoorToDoor.png" /></a>
-    <a href="https://github.com/mrsBarul/Stop-Boring " align="left"><img align="left" width="30%" src="https://github.com/mrsBarul/mrsBarul/blob/main/assets/Boring.png" /></a>
-  </div>
+<div width="100%" align="center"><a href="https://github.com/mrsBarul/DOOR-TO-DOOR" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=DOOR-TO-DOOR&title_color=C792EA&text_color=A7ACCB&icon_color=9FDBFC&bg_color=292D3E&hide_border=true&locale=en" /></a><br/><a href="https://github.com/mrsBarul/Stop-Boring" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrsBarul&repo=Stop-Boring&title_color=C792EA&text_color=A7ACCB&icon_color=9FDBFC&bg_color=292D3E&hide_border=true&locale=en" /></a></div>
