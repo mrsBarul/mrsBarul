@@ -9,9 +9,10 @@
 На данный момент я являюсь сотрудником в компании AL TECH LABS LTD. 
 
 * 🌍  Москва
-* 🖥️  Мой сайт-портфолио [BarCode](http://telling-clumsy-brand.glitch.me/)
+* 🖥️  Мой сайт-портфолио [BarCode](http://telling-clumsy-brand.glitch.me/](https://barcode-portfolio.netlify.app/)
 * ✉️  Контакты: [Почта](mailto:kristina.baruleva@bk.ru), [Telegram](https://t.me/mrs_barul)　
-* 🚀  Работаю над проектом [Mortgage consultant](http://mortage-cz.netlify.app/)
+* 🚀  Недавно завершенный проект [Кругосветка](http://mortage-cz.netlify.app/](https://acrosstheworld.ru)
+* 🔥  Сейчас работаю над созданием библиотек UI-компонетов и полезных хуков
 
 <br />
 
